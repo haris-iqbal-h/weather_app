@@ -16,7 +16,7 @@ import {
 import { ImSpinner8 } from 'react-icons/im';
 import Card from '../components/Card';
 
-  const API_KEY="fdff10e9878049df1110a957a1a2eb78";
+  const API_KEY="KEY";
 
 const Home = () => {
   const [data, setData] = useState(null);
